@@ -10,7 +10,7 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 - 🌱 I’m currently learning JavaScript, Reactjs, Vuejs and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer.
-- 📫 You can [view my resume](/https://drive.google.com/file/d/12tHBS7lbjIaNHsuTxO9zeAEq0wnWr9Pv/view?usp=sharing) and contact me by emailing omorodion.fortune@gmail.com.
+- 📫 You can [view my resume](/https://drive.google.com/open?id=1kwzJOFkiyw07eDJtOWfPxG1qhc-puOgH&usp=drive_fs/view?usp=sharing) and contact me by emailing omorodion.fortune@gmail.com.
 
 ---
 
